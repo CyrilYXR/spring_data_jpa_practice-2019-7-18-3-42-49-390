@@ -1,0 +1,1 @@
+ALTER TABLE prosecutor ADD CONSTRAINT sex CHECK(sex='男' or sex='女');
