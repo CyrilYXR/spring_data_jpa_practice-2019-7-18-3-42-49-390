@@ -1,0 +1,1 @@
+ALTER TABLE prosecutor ADD CONSTRAINT experience CHECK(experience>=0);
